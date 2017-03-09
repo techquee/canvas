@@ -1,0 +1,15 @@
+html, body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #FFF;
+}
+
+#board {
+	background-image: url('images/background.png');
+	background-size: cover;
+}
+
+#images {
+	display: none;
+}
+
